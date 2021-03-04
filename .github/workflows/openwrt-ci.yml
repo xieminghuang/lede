@@ -4,8 +4,8 @@
 # Copyright (C) 2019 P3TERX
 #
 # Copyright (C) 2020 KFERMercer
-#1212121
-name: OpenWrt-CI
+#1212121yyyy
+name: OpenWrt-CI韵白啊
 
 on:
   schedule:
